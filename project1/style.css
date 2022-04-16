@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* een deel van de voorbereiding van de css met grid gaat wss nog worden aangepast naar Bootstrap */ 
+/* CSS Document */
+/*
+body {
+	margin: 0;
+	
+    
+}
+.container {
+	display: grid;
+	grid-template-rows: auto;
+	grid-template-columns: 67% 33%;
+	grid-template-areas: "header header"
+		                 "nav nav"
+		                 "main news"
+		                 "footer footer"
+	
+}
+
+
+header {
+
+    width: auto;
+    height: 130px;
+    padding: 0.5em;
+    grid-area: header;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+    grid-template-areas: "titel zoekbalk"
+        ". iconen";
+}
+nav {
+    width:100%;
+    height: auto;
+   
+    grid-area: nav;
+    justify-content: center;
+    display: flex;
+    
+	
+	position: sticky;
+	top: 0;
+    border-bottom: 1px solid ...;
+    
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: ......;
+}
+li {
+  float: left;
+}
+li a, .dropbtn {
+  display: inline-block;
+  color: ......;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: .....;
+  color: .....;
+}
+li.dropdown {
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: ......;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: .....;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  background-color:.....;
+}
+.dropdown-content a:hover {
+    background-color: ....;
+    color:....;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}    
+main {
+    background-color: .....;
+    width: auto;
+    height: auto;
+    grid-area: main;
+    padding: 0.5em;
+}
+.searchbox {
+  text-align: right;
+  padding: 1em;
+}
+footer {
+  grid-area: footer;
+  background-color: .....;
+    color:.....;
+  text-align: center;
+  border-top: 5px solid .....;
+  padding-bottom: 16px;
+  padding-top: 16px;
+  padding-bottom: 2px .....;
+}
+.zoekbalk {
+    grid-area: zoekbalk;
+    text-align: right;
+  padding: 1em;
+}
+.iconen {
+    grid-area: iconen;
+  text-decoration: none;
+    color: .....;
+    text-align: right;
+  padding: 1em;
+}
+.iconen > a{
+    color: .....; 
+}
+.titel {
+    grid-area: titel;
+    font-size: 3em;
+}
+nav > a:hover{
+    background-color: aqua;
+    color: yellowgreen;
+}
+nav > a {
+    color: black;
+    text-decoration: none;
+    padding: 0.5em;
+}
+.iconen > a {
+    padding: 2em;
+    margin-bottom: 1em;
+    padding-bottom: 4em;
+    color: .....;
+    
+}
+.iconen > a:hover {
+    padding: 2em;
+    margin-bottom: 1em;
+    padding-bottom: 4em;
+    color:......;
+    
+}
+article {
+    
+    margin: 10px;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 60% 40%;
+    grid-template-areas: "titel img"
+        "txt img";
+}
+article > .titels {
+    grid-area: titel;
+    font-size: 2em;
+    font-weight: bold;
+	margin: 0.5em;
+        
+        
+}
+article > .teksten {
+    grid-area: txt;
+	margin: 1em;
+}
+article > .afbeeldingen {
+    grid-area: img;
+    
+    width: 100%;
+}
+.mySpace1 {
+   
+    padding-top: 0.5em;
+    margin-bottom: 0.5em;
+    
+    border-bottom: 1px double black;
+    
+    color: ....;
+   
+   
+}
+.flexContainer{}
+.sidebar a {
+    text-decoration: none;
+    color: ....;
+}
+.sidebar img {
+    width: 100%;
+}
+.sidebar afbeeldingen {
+    width: 100%;
+}
+.side {
+    color: ....;
+    grid-area: news;
+	display: flex;
+	flex-direction: column;
+	background-color: ....;
+    border-left:1px solid .....;
+}
+article a {
+    color: .....;
+    text-decoration: none;
+}
+article a:hover {
+    color: ......;
+}
+.blok1 {
+    align-content: center;
+    text-align: center;
+    display: block;
+    color: ......;
+    background-color: ......;
+    padding: 1em;
+    width: 33%;
+}
+.tekstzwart {
+    color: ......;
+    border: 1px solid .....;
+    text-align: center;
+    
+}
+.tekstzwart a:hover {
+    color: .....;
+    
+}
+.afbeeldingen {
+    border: 100%;
+};
+*/
+
+
+/* een deel van de voorbereiding van de css met grid gaat wss nog worden aangepast naar Bootstrap*/ 
